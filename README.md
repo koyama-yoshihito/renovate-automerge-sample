@@ -1,0 +1,1 @@
+# renovate-automerge-sample
