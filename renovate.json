@@ -2,5 +2,11 @@
   "extends": [
     "config:base",
     "github>aquaproj/aqua-renovate-config#1.1.0"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
   ]
 }
