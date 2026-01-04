@@ -6,4 +6,4 @@ packages:
 - name: golang/mock@v1.6.0
 - name: golangci/golangci-lint@v1.59.1
 - name: mvdan/gofumpt@v0.8.0
-- name: cosmtrek/air@v1.63.4
+- name: cosmtrek/air@v1.63.5
